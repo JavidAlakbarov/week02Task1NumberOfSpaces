@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\week02Task1NumbeOfSpaces\week02Task1NumbeOfSpaces\bin\Debug\week02Task1NumbeOfSpaces.exe.config
+C:\Users\User\source\repos\week02Task1NumbeOfSpaces\week02Task1NumbeOfSpaces\bin\Debug\week02Task1NumbeOfSpaces.exe
+C:\Users\User\source\repos\week02Task1NumbeOfSpaces\week02Task1NumbeOfSpaces\bin\Debug\week02Task1NumbeOfSpaces.pdb
+C:\Users\User\source\repos\week02Task1NumbeOfSpaces\week02Task1NumbeOfSpaces\obj\Debug\week02Task1NumbeOfSpaces.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\week02Task1NumbeOfSpaces\week02Task1NumbeOfSpaces\obj\Debug\week02Task1NumbeOfSpaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\week02Task1NumbeOfSpaces\week02Task1NumbeOfSpaces\obj\Debug\week02Task1NumbeOfSpaces.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\week02Task1NumbeOfSpaces\week02Task1NumbeOfSpaces\obj\Debug\week02Task1NumbeOfSpaces.exe
+C:\Users\User\source\repos\week02Task1NumbeOfSpaces\week02Task1NumbeOfSpaces\obj\Debug\week02Task1NumbeOfSpaces.pdb
